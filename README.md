@@ -2,10 +2,10 @@
 
 I'm a Software Engineering student who is like to explore modern technologies and methods.
 
-    - 🔭 I’m currently learning object oriented concepts and software Technologies.
+    - 🔭 I’m currently learning cyber security.
     - 🌱 I’m currently studing @ Sri Lanka Institute of Information Technology
-    - 👯 I’m looking to collaborate on Java and Web Projects.
-    - 💬 Ask me about Web and Java SE
+    - 👯 I’m looking to collaborate Web Projects & penetration testing in cyber.
+    - 💬 Ask me about cyber security 
     - 📫 How to reach me (email): smuthumali2@gmail.com
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
  
@@ -36,7 +36,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
 
 [website]: https://Dhanuka99.github.io
 [twitter]: https://twitter.com/DhanukaLakshan5
-[linkedin]: https://www.linkedin.com/in/dhanuka-lakshan-91a045190/
+[linkedin]: https://www.linkedin.com/in/shalini-muthumali/
 [Facebook]: https://www.facebook.com/dhanuka.lakshan.395/
 [StackOverFlow]: https://stackoverflow.com/users/13066546/dhanuka-lakshan
 
