@@ -8,7 +8,8 @@ I'm a Software Engineering student who is like to explore modern technologies an
     - 💬 Ask me about cyber security 
     - 📫 How to reach me (email): smuthumali2@gmail.com
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
- 
+    
+ Badges__
  [![@shalini_muthumali's Holopin board](https://holopin.io/api/user/board?user=shalini_muthumali)](https://holopin.io/@shalini_muthumali)
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
