@@ -1,6 +1,4 @@
-<h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
-
-I'm a Cyber Security student who is like to explore modern technologies and methods.
+<h2>I'm a Cyber Security student. </h2>
 
     - 🔭 I’m currently learning cyber security.
     - 🌱 I’m currently studing @ Sri Lanka Institute of Information Technology
@@ -9,7 +7,10 @@ I'm a Cyber Security student who is like to explore modern technologies and meth
     - 📫 How to reach me (email): smuthumali2@gmail.com
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
     
- <h3>Badges__<h3>
+    
+ <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
+    
+ <h3>Badges__</h3>
  
  [![@shalini_muthumali's Holopin board](https://holopin.io/api/user/board?user=shalini_muthumali)](https://holopin.io/@shalini_muthumali)
 
