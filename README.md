@@ -1,5 +1,3 @@
-<h2>I'm a Cyber Security student. </h2>
-
     - 🔭 I’m currently learning cyber security.
     - 🌱 I’m currently studing @ Sri Lanka Institute of Information Technology
     - 👯 I’m looking to collaborate Web Projects & penetration testing in cyber.
@@ -9,6 +7,7 @@
     
     
  <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
+ <h3>I'm a Cyber Security student. </h3>
     
  <h3>Badges__</h3>
  
