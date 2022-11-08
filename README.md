@@ -7,7 +7,7 @@
     
     
  <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
- <h3>I'm a Cyber Security student. </h3>
+I'm a Cyber Security student.
     
  <h3>Badges__</h3>
  
@@ -36,11 +36,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21169076&layout=compact&theme=radical)](https://github.com/IT21169076/github-readme-stats)
 ![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
 
-[website]: https://Dhanuka99.github.io
-[twitter]: https://twitter.com/DhanukaLakshan5
+
 [linkedin]: https://www.linkedin.com/in/shalini-muthumali/
-[Facebook]: https://www.facebook.com/dhanuka.lakshan.395/
-[StackOverFlow]: https://stackoverflow.com/users/13066546/dhanuka-lakshan
 
 
 
