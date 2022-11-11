@@ -23,7 +23,10 @@ I'm a Cyber Security student.
 ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
  
 
-[<img align="left" alt="DanushkaHerath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanushkaHerath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+
+
+
 
 ![Shalini's github stats](https://github-readme-stats.vercel.app/api?username=IT21169076&show_icons=true&theme=radical)
 
