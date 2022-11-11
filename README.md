@@ -1,5 +1,5 @@
     - 🔭 I’m currently learning cyber security.
-    - 🌱 I’m currently studing @ Sri Lanka Institute of Information Technology
+    - 🌱 studing @ Sri Lanka Institute of Information Technology(SLIIT)
     - 👯 I’m looking to collaborate Web Projects & penetration testing in cyber.
     - 💬 Ask me about cyber security 
     - 📫 How to reach me (email): smuthumali2@gmail.com
