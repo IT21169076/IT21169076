@@ -7,7 +7,7 @@
     
     
  <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
-I'm a Cyber Security student.
+
     
  <h3>Badges__</h3>
  
