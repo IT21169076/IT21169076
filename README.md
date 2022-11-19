@@ -7,7 +7,6 @@
     
  <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
 
-    
  <h3>__My Badges__</h3>
  
  [![@shalini_muthumali's Holopin board](https://holopin.io/api/user/board?user=shalini_muthumali)](https://holopin.io/@shalini_muthumali)
