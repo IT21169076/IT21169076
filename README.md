@@ -1,8 +1,8 @@
-    - 🔭 I’m currently learning cyber security.
-    - 🌱 studing @ Sri Lanka Institute of Information Technology(SLIIT)
-    - 👯 I’m looking to collaborate Web Projects & penetration testing in cyber.
-    - 📫 How to reach me (email): smuthumali2@gmail.com
-    - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
+    -- 🔭 I’m currently learning cyber security.
+    -- 🌱 studing @ Sri Lanka Institute of Information Technology(SLIIT)
+    --👯 I’m looking to collaborate Web Projects & penetration testing in cyber.
+    -- 📫 How to reach me (email): smuthumali2@gmail.com
+    -- ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
     
     
  <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
