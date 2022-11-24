@@ -5,7 +5,7 @@
     -- ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
     
     
- <h1> Hi there 👋 I'm Shalini Muthumali Athukorala</h1>
+ <h1> Hi there.. 👋 I'm Shalini Muthumali Athukorala</h1>
 
  <h3>__My Badges__</h3>
  
