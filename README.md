@@ -6,6 +6,8 @@
     
     
  <h1> Hi there .. 👋 I'm Shalini Muthumali Athukorala</h1>
+ 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/dosebinary68.png" alt="TryHackMe">
 
  <h3>__My Badges__</h3>
  
