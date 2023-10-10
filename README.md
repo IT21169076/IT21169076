@@ -11,7 +11,10 @@
 
  <h3>__My Badges__</h3>
  
- [![@shalini_muthumali's Holopin board](https://holopin.io/api/user/board?user=shalini_muthumali)](https://holopin.io/@shalini_muthumali)
+ [![@shalini_muthumali's Holopin board](https://holopin.io/api/user/board?user=shalini_muthumali)](https://holopin.io/@shalini_muthumali)<
+
+
+ 
  [![An image of @it21169076's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/it21169076)](https://holopin.io/@it21169076)
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
